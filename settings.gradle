@@ -1,1 +1,1 @@
-include ':rating-seek-bar', ':sample'
+include ':rating-seek-bar'
